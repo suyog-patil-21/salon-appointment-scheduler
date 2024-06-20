@@ -154,3 +154,11 @@ psql --username=freecodecamp --dbname=postgres
 ./salon.sh
 ./salon.sh
 ./salon.sh
+exit
+clear
+git status
+git remote --help
+git remote set-url origin https://github.com/suyog-patil-21/salon-appointment-scheduler.git
+git remote -v
+git status
+git add .
